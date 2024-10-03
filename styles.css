@@ -53,7 +53,7 @@ Ensure that the text is still readable after the color has been changed.
 */
 
 .pretty-button:hover {
-    background-color: #444444;
+    background-color: #80aaea;
     color: white; 
 }
 
